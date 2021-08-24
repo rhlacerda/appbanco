@@ -1,3 +1,3 @@
 # app
 
-Digones Noob
+Digones Expert
